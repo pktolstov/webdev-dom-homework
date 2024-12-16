@@ -132,6 +132,10 @@ body {
     cursor: pointer;
   }
 
+  .add-form-empty {
+    background-color: #da6d6d;
+  }
+
   .add-form-button:hover {
     opacity: 0.9;
   }
